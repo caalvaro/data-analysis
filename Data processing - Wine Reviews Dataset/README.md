@@ -1,5 +1,9 @@
 # Wine Reviews Dataset
 
+Acesse o projeto aqui:
+
+[**Python Notebook - Wine Reviews Dataset**](https://github.com/caalvaro/data-analysis/blob/main/Data%20processing%20-%20Wine%20Reviews%20Dataset/Data%20processing%20-%20Wine%20Reviews%20Dataset.ipynb)
+
 ## Objetivo
 Extrair diversas entidades e relacionamentos a partir de uma tabela única de reviews, obtendo tabelas para popular um banco de dados mais conciso e estruturado de acordo com a modelagem abaixo.
 
