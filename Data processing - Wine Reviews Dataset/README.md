@@ -15,7 +15,7 @@ Bibliotecas do Python: **Pandas** e **Json**
 ## Desafios e aprendizados
 A primeira versão do projeto foi feita usando uma abordagem bem mais ingênua, iterando sobre as linhas para analisar uma a uma e registrar as relações entre as tabelas. Além de ser uma solução menos enxuta, ela era demorada pois dependia de várias execuções do método "query" do Pandas.
 
-Na segunda versão, pude explorar o uso dos métodos **Map, Applymap e Explode** do Pandas, que permitem fazer processamentos dos dados de maneira muito mais rapidamente.
+Na segunda versão, pude explorar o uso dos métodos **Map, Applymap e Explode** do Pandas, que permitem fazer processamentos dos dados muito mais rapidamente.
 
 ## Resultados
 A partir da tabela inicial, foram geradas 8 novas tabelas, considerando as entidades e as tabelas pivot para relacionamentos n:n. O resultado foram dados muito mais organizados e estruturados de forma padronizada, facilitando a consulta, análise e manutenção.
